@@ -74,7 +74,7 @@ table.timetable {
 }
 
 th.timetable {
-	background : #F2B063;
+	background : #3093F2;
 	border : 1px solid white;
 	font-size : 10pt;
         text-align: center;
@@ -87,13 +87,13 @@ td.timetable {
 	vertical-align : middle; 
 	text-align : center; 
 	background : #ffffff;
-	border : 1px solid #F2B063;
+	border : 1px solid #3093F2;
 	padding : 5px;
 }
 
 td.heading {
 	font-size : 10pt;
-	background : #F2B063;
+	background : #3093F2;
 }
 
 .smena13 {	
@@ -103,7 +103,7 @@ td.heading {
 	vertical-align : middle; 
 	text-align : center; 
 	background : #ffffff;
-	border : 1px solid #F2B063;
+	border : 1px solid #3093F2;
 	padding : 5px;
 	color : BB3333;
 }
@@ -115,7 +115,7 @@ td.heading {
 	vertical-align : middle; 
 	text-align : center; 
 	background : #ffffff;
-	border : 1px solid #F2B863;
+	border : 1px solid #3093F2;
 	padding : 5px;
 	color : 333399;
 }
