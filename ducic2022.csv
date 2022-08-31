@@ -25,14 +25,14 @@ people
 71	brsla	srp.p	1,1,1,1
 74	brsla	srp.p	1,1,1,1
 52	hata	srp.p	1,1,1,1,1
-53	hata	srp.p	1,1,1,1,1
+51	hata	srp.p	1,1,1,1,1
 64	hata	srp.p	1,1,1,1
 81	hata	srp.p	1,1,1,1
 72	stama	srp.p	1,1,1,1
 82	stama	srp.p	1,1,1,1
 83	stama	srp.p	1,1,1,1
 73	stama	srp.p	1,1,1,1
-51	joma	srp.p	1,1,1,1,1
+53	joma	srp.p	1,1,1,1,1
 61	joma	srp.p	1,1,1,1
 62	joma	srp.p	1,1,1,1
 51	jeop	muz.p	1,1
@@ -50,7 +50,7 @@ people
 81	jeop	muz.p	1
 82	jeop	muz.p	1
 83	jeop	muz.p	1
-51	bosne	mat.p	1,1,1,1
+53	bosne	mat.p	1,1,1,1
 61	bosne	mat.p	1,1,1,1
 62	bosne	mat.p	1,1,1,1
 63	bosne	mat.p	1,1,1,1
@@ -61,7 +61,7 @@ people
 71	jasve	mat.p	1,1,1,1
 74	jasve	mat.p	1,1,1,1
 52	temi	mat.p	1,1,1,1
-53	temi	mat.p	1,1,1,1
+51	temi	mat.p	1,1,1,1
 54	temi	mat.p	1,1,1,1
 72	temi	mat.p	1,1,1,1
 73	temi	mat.p	1,1,1,1
@@ -132,8 +132,8 @@ people
 53	zije	geo.p	1
 54	zije	geo.p	1
 64	zije	geo.p	1,1
-51	rada	fzc.v	1,1,1
-53	rada	fzc.v	1,1
+53	rada	fzc.v	1,1,1
+51	rada	fzc.v	1,1
 61	rada	fzc.v	1,1,1
 64	rada	fzc.v	1,1,1
 71	rada	fzc.v	1,1,1
@@ -141,7 +141,7 @@ people
 81	rada	fzc.v	1,1,1
 83	rada	fzc.v	1,1,1
 52	steda	fzc.v	1,1,1
-53	steda	fzc.v	1
+51	steda	fzc.v	1
 54	steda	fzc.v	1,1,1
 62	steda	fzc.v	1,1,1
 63	steda	fzc.v	1,1,1
@@ -204,10 +204,10 @@ people
 71,73	trina	rus.p	1,1
 72,74	trina	rus.p	1,1
 81,82,83	trina	rus.p	1,1
-51,52	muivje	csv.v	1
-51,52	teje	cp.v	1
-53,54	muivje	csv.v	1
-53,54	teje	cp.v	1
+53,52	muivje	csv.v	1
+53,52	teje	cp.v	1
+51,54	muivje	csv.v	1
+51,54	teje	cp.v	1
 81	muje	dom.v	1
 81	nima	csv.v	1
 82,83	muivje	csv.v	1
@@ -231,7 +231,8 @@ people
 82,83	teje	gra.v	1
 71	busne	gra.v	1
 72,73	busne	gra.v	1
-51,52,53,54	stebru	ver.v	1
+51,53	stebru	ver.v	1
+52,54	stebru	ver.v	1
 61,62,63	stebru	ver.v	1
 71,72,73	stebru	ver.v	1
 81	stebru	ver.v	1
@@ -252,11 +253,11 @@ busne_71_fra.p.2'	trina_71_rus.p.2'
 busne_72_fra.p.2'	trina_72_rus.p.2'
 busne_82_fra.p.1'	trina_82_rus.p.1'
 busne_82_fra.p.2'	trina_82_rus.p.2'
-rada_51_fzc.v.1'	steda_52_fzc.v.1'
-rada_51_fzc.v.2'	steda_52_fzc.v.2'
-rada_51_fzc.v.3'	steda_52_fzc.v.3'
-rada_53_fzc.v.1'	steda_54_fzc.v.1'
-rada_53_fzc.v.2'	steda_54_fzc.v.2'
+rada_53_fzc.v.1'	steda_52_fzc.v.1'
+rada_53_fzc.v.2'	steda_52_fzc.v.2'
+rada_53_fzc.v.3'	steda_52_fzc.v.3'
+rada_51_fzc.v.1'	steda_54_fzc.v.1'
+rada_51_fzc.v.2'	steda_54_fzc.v.2'
 rada_61_fzc.v.1'	steda_62_fzc.v.1'
 rada_61_fzc.v.2'	steda_62_fzc.v.2'
 rada_61_fzc.v.3'	steda_62_fzc.v.3'
@@ -272,7 +273,10 @@ rada_74_fzc.v.3'	steda_73_fzc.v.3'
 rada_81_fzc.v.1'	steda_82_fzc.v.1'
 rada_81_fzc.v.2'	steda_82_fzc.v.2'
 rada_81_fzc.v.3'	steda_82_fzc.v.3'
-stebru_81_ver.v.1'	teje_81_ver.v.1'
+stebru_81_ver.v.1'	teje_81_gra.v.1'
+stebru_82_ver.v.1'	teje_82_gra.v.1'
+stebru_51_ver.v.1'	teje_51_gra.v.1'
+stebru_52_ver.v.1'	teje_52_gra.v.1'
 muivje_51_csv.v.1'	teje_51_cp.v.1'
 muivje_53_csv.v.1'	teje_53_cp.v.1'
 muje_81_dom.v.1'	nima_81_csv.v.1'
@@ -280,18 +284,47 @@ muivje_82_csv.v.1'	muje_82_dom.v.1'
 muivje_71_csv.v.1'	kusa_71_dom.v.1'
 muivje_73_csv.v.1'	kusa_74_dom.v.1'
 
+distinct
+tobo	temi_52_inf.v.1
+tobo	temi_81_inf.v.1
+tobo	temi_82_inf.v.1
+tobo	temi_83_inf.v.1
+
 additional
+// dete iz vrtica
+-boal_pon_5
+-boal_pon_6
+-boal_pon_7
+-boal_sre_5
+-boal_sre_6
+-boal_sre_7
+-boal_pet_5
+-boal_pet_6
+-boal_pet_7
+-boal_pon_4 boal_pon_1
+-boal_sre_4 boal_sre_1
+-boal_pet_4 boal_pet_1
+-bosne_uto_4
+-bosne_uto_5
+-bosne_uto_6
+-bosne_uto_7
+-bosne_cet_4
+-bosne_cet_5
+-bosne_cet_6
+-bosne_cet_7
 // izborni predmeti
-stebru_pon_1
-stebru_pon_7
-stebru_pet_1
-stebru_pet_7
+stebru_61_ver.v.1'_pon_1 stebru_61_ver.v.1'_pon_7
+stebru_71_ver.v.1'_pet_1 stebru_71_ver.v.1'_pet_7
+stebru_pon_2
+stebru_pon_3
+stebru_pon_4
+stebru_pon_1 stebru_pon_5
+// -stebru_hole1
 trina_81_rus.p.1'_pon_1 trina_81_rus.p.1'_uto_1 trina_81_rus.p.1'_sre_1 trina_81_rus.p.1'_cet_1 trina_81_rus.p.1'_pet_1
 trina_81_rus.p.2'_pon_1 trina_81_rus.p.2'_uto_1 trina_81_rus.p.2'_sre_1 trina_81_rus.p.2'_cet_1 trina_81_rus.p.2'_pet_1
 busne_81_fra.p.1'_pon_1 busne_81_fra.p.1'_uto_1 busne_81_fra.p.1'_sre_1 busne_81_fra.p.1'_cet_1 busne_81_fra.p.1'_pet_1
 busne_81_fra.p.2'_pon_1 busne_81_fra.p.2'_uto_1 busne_81_fra.p.2'_sre_1 busne_81_fra.p.2'_cet_1 busne_81_fra.p.2'_pet_1
 trina_81_rus.p.2'_pon_1 trina_81_rus.p.2'_uto_1 trina_81_rus.p.2'_sre_1 trina_81_rus.p.2'_cet_1 trina_81_rus.p.2'_pet_1
-stebru_pon_2 stebru_pet_2 stebru_pon_6 stebru_pet_6
 -stebru_81_ver.v.1'_pon_1
 -stebru_81_ver.v.1'_pet_1
 -stebru_81_ver.v.1'_pon_7
@@ -512,14 +545,14 @@ muivje_62_csvx.v.1'_pon_1 muivje_62_csvx.v.1'_uto_1 muivje_62_csvx.v.1'_sre_1 mu
 -mami_62_eng.p.1'_uto -mami_62_eng.p.2'_sre
 -mami_62_eng.p.1'_sre -mami_62_eng.p.2'_cet
 -mami_62_eng.p.1'_cet -mami_62_eng.p.2'_pet
--mata_63_eng.p.1'_pon -mata_63_eng.p.2'_uto
--mata_63_eng.p.1'_uto -mata_63_eng.p.2'_sre
--mata_63_eng.p.1'_sre -mata_63_eng.p.2'_cet
--mata_63_eng.p.1'_cet -mata_63_eng.p.2'_pet
--mata_64_eng.p.1'_pon -mata_64_eng.p.2'_uto
--mata_64_eng.p.1'_uto -mata_64_eng.p.2'_sre
--mata_64_eng.p.1'_sre -mata_64_eng.p.2'_cet
--mata_64_eng.p.1'_cet -mata_64_eng.p.2'_pet
+//-mata_63_eng.p.1'_pon -mata_63_eng.p.2'_uto
+//-mata_63_eng.p.1'_uto -mata_63_eng.p.2'_sre
+//-mata_63_eng.p.1'_sre -mata_63_eng.p.2'_cet
+//-mata_63_eng.p.1'_cet -mata_63_eng.p.2'_pet
+//-mata_64_eng.p.1'_pon -mata_64_eng.p.2'_uto
+//-mata_64_eng.p.1'_uto -mata_64_eng.p.2'_sre
+//-mata_64_eng.p.1'_sre -mata_64_eng.p.2'_cet
+//-mata_64_eng.p.1'_cet -mata_64_eng.p.2'_pet
 -mami_71_eng.p.1'_pon -mami_71_eng.p.2'_uto
 -mami_71_eng.p.1'_uto -mami_71_eng.p.2'_sre
 -mami_71_eng.p.1'_sre -mami_71_eng.p.2'_cet
@@ -827,7 +860,7 @@ muivje_62_csvx.v.1'_pon_1 muivje_62_csvx.v.1'_uto_1 muivje_62_csvx.v.1'_sre_1 mu
 -arsa_7
 -arsa_6
 -kusa_1
--hata_1
+hata_pon_6 hata_uto_6 hata_sre_6 hata_cet_6 hata_pet_6
 // sedmi casovi za srpski i matematiku
 -brsla_7
 -hata_7
@@ -837,6 +870,140 @@ muivje_62_csvx.v.1'_pon_1 muivje_62_csvx.v.1'_uto_1 muivje_62_csvx.v.1'_sre_1 mu
 -bosne_7
 -jasve_7
 -anpo_7
+-kove_7
+// sedmi casovi za biologiju
+-kusa_pon_7 kusa_71_dom.v.1'_pon_7 kusa_73_dom.v.1'_pon_7
+-kusa_uto_7 kusa_71_dom.v.1'_uto_7 kusa_73_dom.v.1'_uto_7
+-kusa_sre_7 kusa_71_dom.v.1'_sre_7 kusa_73_dom.v.1'_sre_7
+-kusa_cet_7 kusa_71_dom.v.1'_cet_7 kusa_73_dom.v.1'_cet_7
+-kusa_pet_7 kusa_71_dom.v.1'_pet_7 kusa_73_dom.v.1'_pet_7
+// sedmi casovi za petake
+-51_7
+-52_7
+-53_7
+-54_7
+// sesti casovi za petake
+-bosne_51_mat.p.1'_pon_6
+-bosne_51_mat.p.1'_uto_6
+-bosne_51_mat.p.2'_uto_6
+-bosne_51_mat.p.2'_sre_6
+-bosne_51_mat.p.3'_sre_6
+-bosne_51_mat.p.3'_cet_6
+-bosne_51_mat.p.4'_cet_6
+-bosne_51_mat.p.4'_pet_6
+-joma_51_srp.p.1'_pon_6
+-joma_51_srp.p.1'_uto_6
+-joma_51_srp.p.2'_uto_6
+-joma_51_srp.p.2'_sre_6
+-joma_51_srp.p.3'_sre_6
+-joma_51_srp.p.3'_cet_6
+-joma_51_srp.p.4'_cet_6
+-joma_51_srp.p.4'_pet_6
+-kove_51_ist.p.1'_pon_6
+-kove_51_ist.p.1'_uto_6
+-kove_51_ist.p.1'_sre_6
+-kove_51_ist.p.1'_cet_6
+-kove_51_ist.p.1'_pet_6
+-zije_51_geo.p.1'_pon_6
+-zije_51_geo.p.1'_uto_6
+-zije_51_geo.p.1'_sre_6
+-zije_51_geo.p.1'_cet_6
+-zije_51_geo.p.1'_pet_6
+-temi_52_mat.p.1'_pon_6
+-temi_52_mat.p.1'_uto_6
+-temi_52_mat.p.2'_uto_6
+-temi_52_mat.p.2'_sre_6
+-temi_52_mat.p.3'_sre_6
+-temi_52_mat.p.3'_cet_6
+-temi_52_mat.p.4'_cet_6
+-temi_52_mat.p.4'_pet_6
+-hata_52_srp.p.1'_pon_6
+-hata_52_srp.p.1'_uto_6
+-hata_52_srp.p.2'_uto_6
+-hata_52_srp.p.2'_sre_6
+-hata_52_srp.p.3'_sre_6
+-hata_52_srp.p.3'_cet_6
+-hata_52_srp.p.4'_cet_6
+-hata_52_srp.p.4'_pet_6
+-kove_52_ist.p.1'_pon_6
+-kove_52_ist.p.1'_uto_6
+-kove_52_ist.p.1'_sre_6
+-kove_52_ist.p.1'_cet_6
+-kove_52_ist.p.1'_pet_6
+-zije_52_geo.p.1'_pon_6
+-zije_52_geo.p.1'_uto_6
+-zije_52_geo.p.1'_sre_6
+-zije_52_geo.p.1'_cet_6
+-zije_52_geo.p.1'_pet_6
+-temi_53_mat.p.1'_pon_6
+-temi_53_mat.p.1'_uto_6
+-temi_53_mat.p.2'_uto_6
+-temi_53_mat.p.2'_sre_6
+-temi_53_mat.p.3'_sre_6
+-temi_53_mat.p.3'_cet_6
+-temi_53_mat.p.4'_cet_6
+-temi_53_mat.p.4'_pet_6
+-hata_53_srp.p.1'_pon_6
+-hata_53_srp.p.1'_uto_6
+-hata_53_srp.p.2'_uto_6
+-hata_53_srp.p.2'_sre_6
+-hata_53_srp.p.3'_sre_6
+-hata_53_srp.p.3'_cet_6
+-hata_53_srp.p.4'_cet_6
+-hata_53_srp.p.4'_pet_6
+-kove_53_ist.p.1'_pon_6
+-kove_53_ist.p.1'_uto_6
+-kove_53_ist.p.1'_sre_6
+-kove_53_ist.p.1'_cet_6
+-kove_53_ist.p.1'_pet_6
+-zije_53_geo.p.1'_pon_6
+-zije_53_geo.p.1'_uto_6
+-zije_53_geo.p.1'_sre_6
+-zije_53_geo.p.1'_cet_6
+-zije_53_geo.p.1'_pet_6
+-temi_54_mat.p.1'_pon_6
+-temi_54_mat.p.1'_uto_6
+-temi_54_mat.p.2'_uto_6
+-temi_54_mat.p.2'_sre_6
+-temi_54_mat.p.3'_sre_6
+-temi_54_mat.p.3'_cet_6
+-temi_54_mat.p.4'_cet_6
+-temi_54_mat.p.4'_pet_6
+-brsla_54_srp.p.1'_pon_6
+-brsla_54_srp.p.1'_uto_6
+-brsla_54_srp.p.2'_uto_6
+-brsla_54_srp.p.2'_sre_6
+-brsla_54_srp.p.3'_sre_6
+-brsla_54_srp.p.3'_cet_6
+-brsla_54_srp.p.4'_cet_6
+-brsla_54_srp.p.4'_pet_6
+-kove_54_ist.p.1'_pon_6
+-kove_54_ist.p.1'_uto_6
+-kove_54_ist.p.1'_sre_6
+-kove_54_ist.p.1'_cet_6
+-kove_54_ist.p.1'_pet_6
+-zije_54_geo.p.1'_pon_6
+-zije_54_geo.p.1'_uto_6
+-zije_54_geo.p.1'_sre_6
+-zije_54_geo.p.1'_cet_6
+-zije_54_geo.p.1'_pet_6
+// lokalna popravka - 3 teska predmeta u jednom danu
+-kove_51_ist.p.1'_uto -zije_51_geo.p.1'_uto -staiv_51_bio.p.1'_uto
+// bag sa muje
+//-muje_pon_7 muje_82_dom.v.1'_pon_7 muje_82_dom.v.1'_pon_7 
+//-muje_uto_7 muje_82_dom.v.1'_uto_7 muje_82_dom.v.1'_uto_7 
+//-muje_sre_7 muje_82_dom.v.1'_sre_7 muje_82_dom.v.1'_sre_7 
+//-muje_cet_7 muje_82_dom.v.1'_cet_7 muje_82_dom.v.1'_cet_7 
+//-muje_pet_7 muje_82_dom.v.1'_pet_7 muje_82_dom.v.1'_pet_7 
+
+cardinality
+hata_pon_6
+hata_uto_6
+hata_sre_6
+hata_cet_6
+hata_pet_6
+
+1
 
 // sedmi casovi za vazne predmete
 cardinality
@@ -890,11 +1057,6 @@ muje_sre_7
 muje_cet_7
 muje_pet_7
 // bio
-kusa_pon_7
-kusa_uto_7
-kusa_sre_7
-kusa_cet_7
-kusa_pet_7
 staiv_pon_7
 staiv_uto_7
 staiv_sre_7
@@ -939,7 +1101,7 @@ mata_sre_7
 mata_cet_7
 mata_pet_7
 
-5
+0
 
 cardinality
 51_duration_pon_7
@@ -1009,5 +1171,163 @@ tobo_2hole1
 trina_2hole1
 zije_2hole1
 
-8
+0
+
+// dugi dani
+cardinality
+anpo_duration_pon_6
+anpo_duration_uto_6
+anpo_duration_sre_6
+anpo_duration_cet_6
+anpo_duration_pet_6
+arsa_duration_pon_6
+arsa_duration_uto_6
+arsa_duration_sre_6
+arsa_duration_cet_6
+arsa_duration_pet_6
+boal_duration_pon_6
+boal_duration_uto_6
+boal_duration_sre_6
+boal_duration_cet_6
+boal_duration_pet_6
+bosne_duration_pon_6
+bosne_duration_uto_6
+bosne_duration_sre_6
+bosne_duration_cet_6
+bosne_duration_pet_6
+brsla_duration_pon_6
+brsla_duration_uto_6
+brsla_duration_sre_6
+brsla_duration_cet_6
+brsla_duration_pet_6
+busne_duration_pon_6
+busne_duration_uto_6
+busne_duration_sre_6
+busne_duration_cet_6
+busne_duration_pet_6
+hata_duration_pon_6
+hata_duration_uto_6
+hata_duration_sre_6
+hata_duration_cet_6
+hata_duration_pet_6
+ivdr_duration_pon_6
+ivdr_duration_uto_6
+ivdr_duration_sre_6
+ivdr_duration_cet_6
+ivdr_duration_pet_6
+jasve_duration_pon_6
+jasve_duration_uto_6
+jasve_duration_sre_6
+jasve_duration_cet_6
+jasve_duration_pet_6
+jeop_duration_pon_6
+jeop_duration_uto_6
+jeop_duration_sre_6
+jeop_duration_cet_6
+jeop_duration_pet_6
+joma_duration_pon_6
+joma_duration_uto_6
+joma_duration_sre_6
+joma_duration_cet_6
+joma_duration_pet_6
+kove_duration_pon_6
+kove_duration_uto_6
+kove_duration_sre_6
+kove_duration_cet_6
+kove_duration_pet_6
+kusa_duration_pon_6
+kusa_duration_uto_6
+kusa_duration_sre_6
+kusa_duration_cet_6
+kusa_duration_pet_6
+mami_duration_pon_6
+mami_duration_uto_6
+mami_duration_sre_6
+mami_duration_cet_6
+mami_duration_pet_6
+mata_duration_pon_6
+mata_duration_uto_6
+mata_duration_sre_6
+mata_duration_cet_6
+mata_duration_pet_6
+muivje_duration_pon_6
+muivje_duration_uto_6
+muivje_duration_sre_6
+muivje_duration_cet_6
+muivje_duration_pet_6
+muje_duration_pon_6
+muje_duration_uto_6
+muje_duration_sre_6
+muje_duration_cet_6
+muje_duration_pet_6
+nima_duration_pon_6
+nima_duration_uto_6
+nima_duration_sre_6
+nima_duration_cet_6
+nima_duration_pet_6
+olne_duration_pon_6
+olne_duration_uto_6
+olne_duration_sre_6
+olne_duration_cet_6
+olne_duration_pet_6
+rada_duration_pon_6
+rada_duration_uto_6
+rada_duration_sre_6
+rada_duration_cet_6
+rada_duration_pet_6
+sloma_duration_pon_6
+sloma_duration_uto_6
+sloma_duration_sre_6
+sloma_duration_cet_6
+sloma_duration_pet_6
+staiv_duration_pon_6
+staiv_duration_uto_6
+staiv_duration_sre_6
+staiv_duration_cet_6
+staiv_duration_pet_6
+stama_duration_pon_6
+stama_duration_uto_6
+stama_duration_sre_6
+stama_duration_cet_6
+stama_duration_pet_6
+stebru_duration_pon_6
+stebru_duration_uto_6
+stebru_duration_sre_6
+stebru_duration_cet_6
+stebru_duration_pet_6
+steda_duration_pon_6
+steda_duration_uto_6
+steda_duration_sre_6
+steda_duration_cet_6
+steda_duration_pet_6
+teje_duration_pon_6
+teje_duration_uto_6
+teje_duration_sre_6
+teje_duration_cet_6
+teje_duration_pet_6
+temi_duration_pon_6
+temi_duration_uto_6
+temi_duration_sre_6
+temi_duration_cet_6
+temi_duration_pet_6
+tobo_duration_pon_6
+tobo_duration_uto_6
+tobo_duration_sre_6
+tobo_duration_cet_6
+tobo_duration_pet_6
+trina_duration_pon_6
+trina_duration_uto_6
+trina_duration_sre_6
+trina_duration_cet_6
+trina_duration_pet_6
+zije_duration_pon_6
+zije_duration_uto_6
+zije_duration_sre_6
+zije_duration_cet_6
+zije_duration_pet_6
+
+22
+
+cardinality_total
+15
 
